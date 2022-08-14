@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Golden Ass</dc:title>
 		<meta property="file-as" refines="#title">Golden Ass, The</meta>
+		<meta property="dcterms:alternative" refines="#title">Metamorphoses</meta>
 		<dc:subject id="subject-1">Classical literature</dc:subject>
 		<dc:subject id="subject-2">Metamorphosis -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
