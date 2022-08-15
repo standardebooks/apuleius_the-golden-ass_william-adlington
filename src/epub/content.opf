@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/apuleius/the-golden-ass/william-adlington</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-08-15T01:39:06Z</dc:date>
+		<meta property="dcterms:modified">2022-08-15T01:39:06Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,18 +36,19 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010101570</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Curious Lucius turns himself into a donkey while learning magic and turns his Greek business trip into an odyssey of tribulation and spiritual growth.</dc:description>
+		<dc:description id="description">A man accidentally transforms himself into a donkey while trying to learn magic, turning his business trip to Greece into an odyssey of tribulation and spiritual growth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;The Golden Ass&lt;/i&gt;, or &lt;i&gt;Metamorphoses&lt;/i&gt;, the author narrates his own provincial Greek odyssey in a world where old gods rule, myth informs life, Fortune is fickle, Thessalian witches are puissant, and a curious man seeking to learn their craft might well lament making an ass of himself.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/apuleius"&gt;Lucius Apuleius&lt;/a&gt; was a second century speaker and writer born in present-day Algeria who authors, narrates, and is the subject of this bawdy, picaresque, quasi-autobiographical story. He himself traveled extensively, studied philosophy, was initiated into mystery cults, and became a priest. He was also tried for witchcraft, accused of having betrothed his wife Pudentilla by charms other than those of his personality.&lt;/p&gt;
-			&lt;p&gt;The novel was translated into “Tudor prose” by Adlington in 1566, during the “golden age of translation” and it was this version that was read by Shakespeare and influenced his work. The novel contains many digression, mythological references, and inset stories; the most significant being the story of Cupid and Psyche, whose themes and elements reinforce those of the novel. This is the only complete Latin novel to survive from antiquity and has been called “a beginning of modern literature.” The Latin original was the one read by Augustine of Hippo who adapted Apuleius’ confessional style in his own writing and responded to Apuleius directly in his own philosophy. In its theology, The &lt;i&gt;Golden Ass&lt;/i&gt; embodies an inclusive monotheism. From Kafka, to &lt;i&gt;Pinnochio&lt;/i&gt;, to the motion picture &lt;i&gt;The Fly&lt;/i&gt;, the influence of Apuleius and his &lt;i&gt;Metamorphoses&lt;/i&gt; continues to be felt.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Golden Ass&lt;/i&gt;, or &lt;i&gt;Metamorphoses&lt;/i&gt;, Lucian is on a business trip to Greece when his curiosity gets the best of him and he finds himself accidentally transformed into a donkey. He then narrates his provincial odyssey in a world where old gods rule, myth informs life, Fortune is fickle, Thessalian witches are puissant, and a curious man seeking to learn their craft might well lament making an ass of himself.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/apuleius"&gt;Apuleius&lt;/a&gt; was a second-century speaker and writer born in present-day Algeria who authors, narrates, and is the subject of this bawdy, picaresque, quasi-autobiographical story. He himself traveled extensively, studied philosophy, was initiated into mystery cults, and became a priest. He was also tried for witchcraft, accused of having betrothed his wife Pudentilla by charms other than those of his personality.&lt;/p&gt;
+			&lt;p&gt;The novel was translated into “Tudor prose” by Adlington in 1566 during the “golden age of translation,” and it was this version that was read by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; and influenced his work. The novel contains many digression, mythological references, and inset stories, the most significant being the story of Cupid and Psyche.&lt;/p&gt;
+			&lt;p&gt;This is the only complete Latin novel from antiquity that has survived to the present day, and has been called “a beginning of modern literature.” The Latin original was the one read by Augustine of Hippo who adapted Apuleius’ confessional style in his own writing—he even responded to Apuleius directly in his own philosophy. In its theology, The &lt;i&gt;Golden Ass&lt;/i&gt; embodies an inclusive monotheism. From Kafka, to &lt;a href="https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio"&gt;&lt;i&gt;Pinocchio&lt;/i&gt;&lt;/a&gt;, to the motion picture &lt;i&gt;The Fly&lt;/i&gt;, the influence of Apuleius and his &lt;i&gt;Metamorphoses&lt;/i&gt; continues to be felt.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1666</dc:source>
 		<dc:source>https://archive.org/details/goldenassofapule00apuliala</dc:source>
 		<meta property="se:production-notes">Footnotes in the original front-matter giving only page numbers within the body are excluded. Extensive substitutions were made to modernize archaic spellings.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">86686</meta>
+		<meta property="se:reading-ease.flesch">40.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Golden_Ass</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/apuleius_the-golden-ass_william-adlington</meta>
 		<dc:creator id="author">Apuleius</dc:creator>
