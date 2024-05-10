@@ -50,7 +50,7 @@
 		<dc:source>https://archive.org/details/goldenassofapule00apuliala</dc:source>
 		<meta property="se:production-notes">Footnotes in the original front-matter giving only page numbers within the body are excluded. Extensive substitutions were made to modernize archaic spellings.</meta>
 		<meta property="se:word-count">86686</meta>
-		<meta property="se:reading-ease.flesch">40.08</meta>
+		<meta property="se:reading-ease.flesch">40.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Golden_Ass</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/apuleius_the-golden-ass_william-adlington</meta>
 		<dc:creator id="author">Apuleius</dc:creator>
