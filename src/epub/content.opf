@@ -72,7 +72,7 @@
 		<meta property="file-as" refines="#introducer">Whibley, Charles</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#introducer">wiki: https://en.wikipedia.org/wiki/Charles_Whibley</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introducer">http://id.loc.gov/authorities/names/n50019041</meta>
-		<meta property="role" refines="#introducer" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#introducer" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Nicolai Abildgaard</dc:contributor>
 		<meta property="file-as" refines="#artist">Abildgaard, Nicolai</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Nicolai_Abildgaard</meta>
