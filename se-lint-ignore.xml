@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="foreword-1.xhtml">
-		<ignore>
-			<code>s-084</code>
+		<ignore code="s-084">
 			<reason>alternate title for the present work, which is not a poem</reason>
 		</ignore>
 	</file>
