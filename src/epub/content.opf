@@ -75,7 +75,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<dc:contributor id="introducer">Charles Whibley</dc:contributor>
 		<meta property="file-as" refines="#introducer">Whibley, Charles</meta>
-		<link href="wiki: https://en.wikipedia.org/wiki/Charles_Whibley" refines="#introducer" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Charles_Whibley" refines="#introducer" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50019041.html" refines="#introducer" rel="schema:sameAs"/>
 		<meta property="role" refines="#introducer" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Nicolai Abildgaard</dc:contributor>
