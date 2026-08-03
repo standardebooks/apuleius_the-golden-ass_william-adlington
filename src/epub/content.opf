@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/apuleius/the-golden-ass/william-adlington</dc:identifier>
 		<dc:date>2022-08-15T01:39:06Z</dc:date>
@@ -40,13 +40,13 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A man accidentally transforms himself into a donkey while trying to learn magic, turning his business trip to Greece into an odyssey of tribulation and spiritual growth.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A man accidentally transforms himself into a donkey while trying to learn magic, turning his business trip to Greece into an odyssey of tribulation and spiritual growth.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Golden Ass&lt;/i&gt;, or &lt;i&gt;Metamorphoses&lt;/i&gt;, Lucian is on a business trip to Greece when his curiosity gets the best of him and he finds himself accidentally transformed into a donkey. He then narrates his provincial odyssey in a world where old gods rule, myth informs life, Fortune is fickle, Thessalian witches are puissant, and a curious man seeking to learn their craft might well lament making an ass of himself.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/apuleius"&gt;Apuleius&lt;/a&gt; was a second-century speaker and writer born in present-day Algeria who authors, narrates, and is the subject of this bawdy, picaresque, quasi-autobiographical story. He himself traveled extensively, studied philosophy, was initiated into mystery cults, and became a priest. He was also tried for witchcraft, accused of having betrothed his wife Pudentilla by charms other than those of his personality.&lt;/p&gt;
 			&lt;p&gt;The novel was translated into “Tudor prose” by Adlington in 1566 during the “golden age of translation,” and it was this version that was read by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; and influenced his work. The novel contains many digression, mythological references, and inset stories, the most significant being the story of Cupid and Psyche.&lt;/p&gt;
 			&lt;p&gt;This is the only complete Latin novel from antiquity that has survived to the present day, and has been called “a beginning of modern literature.” The Latin original was the one read by Augustine of Hippo who adapted Apuleius’ confessional style in his own writing—he even responded to Apuleius directly in his own philosophy. In its theology, The &lt;i&gt;Golden Ass&lt;/i&gt; embodies an inclusive monotheism. From Kafka, to &lt;a href="https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio"&gt;&lt;i&gt;Pinocchio&lt;/i&gt;&lt;/a&gt;, to the motion picture &lt;i&gt;The Fly&lt;/i&gt;, the influence of Apuleius and his &lt;i&gt;Metamorphoses&lt;/i&gt; continues to be felt.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1666</dc:source>
 		<dc:source>https://archive.org/details/goldenassofapule00apuliala</dc:source>
