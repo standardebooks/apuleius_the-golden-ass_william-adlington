@@ -40,7 +40,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A man accidentally transforms himself into a donkey while trying to learn magic, turning his business trip to Greece into an odyssey of tribulation and spiritual growth.</dc:abstract>
+		<meta property="schema:abstract">A man accidentally transforms himself into a donkey while trying to learn magic, turning his business trip to Greece into an odyssey of tribulation and spiritual growth.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Golden Ass&lt;/i&gt;, or &lt;i&gt;Metamorphoses&lt;/i&gt;, Lucian is on a business trip to Greece when his curiosity gets the best of him and he finds himself accidentally transformed into a donkey. He then narrates his provincial odyssey in a world where old gods rule, myth informs life, Fortune is fickle, Thessalian witches are puissant, and a curious man seeking to learn their craft might well lament making an ass of himself.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/apuleius"&gt;Apuleius&lt;/a&gt; was a second-century speaker and writer born in present-day Algeria who authors, narrates, and is the subject of this bawdy, picaresque, quasi-autobiographical story. He himself traveled extensively, studied philosophy, was initiated into mystery cults, and became a priest. He was also tried for witchcraft, accused of having betrothed his wife Pudentilla by charms other than those of his personality.&lt;/p&gt;
