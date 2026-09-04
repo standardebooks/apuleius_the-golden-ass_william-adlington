@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Golden Ass, The</meta>
 		<meta property="dcterms:alternative" refines="#title">Metamorphoses</meta>
 		<dc:subject id="subject-1">Classical literature</dc:subject>
-		<dc:subject id="subject-2">Metamorphosis -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Metamorphosis--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85026706</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
